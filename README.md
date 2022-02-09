@@ -1,3 +1,5 @@
+reminder: check branch "firstversion" for another version of the game.
+
 # Thinking in React Recap
 
 ## Noughts and Crosses
