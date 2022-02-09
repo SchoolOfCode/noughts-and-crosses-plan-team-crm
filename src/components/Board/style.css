@@ -1,0 +1,9 @@
+.board {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin: 50px auto;
+    gap: 1px;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
