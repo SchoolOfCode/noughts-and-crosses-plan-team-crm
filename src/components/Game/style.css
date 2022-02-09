@@ -1,0 +1,22 @@
+p {
+  color: greenyellow;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+}
+#restart-btn {
+  background-color: greenyellow;
+  width: 80px;
+  height: 30px;
+  border-radius: 40px;
+  border: solid 3px rgb(87, 130, 24);
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+}
+#restart-btn:hover {
+    background-color: rgb(87, 130, 24);
+    border: solid 3px greenyellow;
+    color:white;
+}
+.wrapper {
+  text-align: center;
+}
